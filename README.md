@@ -8,20 +8,16 @@ Skills: Flutter / Java / JavaFX / C / JavaScript / CSS / HTML  / MySQL / Excel
 
 - 🔭 I’m currently working on SBC GYM 
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me: Email me at mrt.saiful@gmail.com 
+- 📫 How to reach me: mail me at mrt.saiful@gmail.com 
 - 😄 Pronouns: he/his 
 - ⚡ Fun fact: Football Lover 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAIFULmrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saifulmrt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mrt.saiful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saifulmrt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrt_syful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ SAIFULmrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SAIFULmrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SAIFULmrt)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAIFULmrt)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAIFULmrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saifulmrt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mrt.saiful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saifulmrt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrt_syful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SAIFULmrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SAIFULmrt)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAIFULmrt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIFULmrt&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SAIFULmrt)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SAIFULmrt)  
 
