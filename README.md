@@ -9,7 +9,7 @@ Skills: Flutter / Java / JavaFX / C / JavaScript / CSS / HTML  / MySQL / Excel
 - 🔭 I’m currently working on SBC GYM 
 - 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: mail me at mrt.saiful@gmail.com 
-- 😄 Pronouns: he/his 
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: Football Lover 
 
 
